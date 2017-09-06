@@ -2,5 +2,4 @@
 
 changes
 
-change2
-conflict
+change2 (lab 1 from github)
