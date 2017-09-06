@@ -3,3 +3,4 @@
 changes
 
 change2
+conflict
